@@ -13,8 +13,5 @@ sections:
   img_path: "/images/index.jpg"
   component: intro.html
 layout: home
-menu:
-  main:
-    weight: 1
 
 ---
