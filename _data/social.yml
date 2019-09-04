@@ -1,9 +1,7 @@
 ---
 enabled: true
-title: Magna lorem ipsum
-social_content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-  rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-  per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
+title: Launching soon.
+social_content: Bringing Mauritian food to the Sunshine Coast.
 social_links:
 - title: Facebook
   icon: fa-facebook
@@ -11,9 +9,3 @@ social_links:
 - title: Instagram
   icon: fa-instagram
   link_url: https://www.instagram.com/p/BqzJ50InWlZ/
-- title: Snapchat
-  icon: fa-snapchat-ghost
-  link_url: "#"
-- title: GitHub
-  icon: fa-github
-  link_url: "#"
