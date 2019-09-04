@@ -3,8 +3,7 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
-    rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
+  content: Serving traditional Mauritian flavours with a modern twist.
   actions:
   - label: Get Started
     url: "/generic"
